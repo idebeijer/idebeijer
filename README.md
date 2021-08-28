@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Welcome to my profile, take a look around ** 🙂
+**Welcome to my profile, take a look around** 🙂
 
 A few things about me:
 
