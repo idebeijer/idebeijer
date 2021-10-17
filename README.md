@@ -5,6 +5,4 @@
 A few things about me:
 
 - 🔭 I'm currently in school to learn about Software Engineering
-- 🌱 I’m currently, next to school learning Flutter and Django
-- 🤔 I’m curious to learn about AI
-- 📫 Best way to reach me is through email: idb.debeijer@gmail.com
+- 🌱 I'm interested in Flutter, Django, Threejs and Vue.
